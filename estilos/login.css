@@ -2,13 +2,18 @@ body{
 	background-color: #F0F0F0;
 }
 .login {
-	width: 200px;
-	height: 500px;	
+	width: 160px;
+	height: 210px;	
 	position: absolute;
-	left: 0;
-	top: 0;
+	left: 50%;
+	top: 30%;
 	margin-left:10;
 	margin-top: 50px;
 	text-align: center;
+	padding: 20px;
 	
+}
+.login button{
+	margin-top: 10px;
+	width: 100px;
 }
