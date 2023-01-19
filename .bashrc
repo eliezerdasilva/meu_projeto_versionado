@@ -26,13 +26,4 @@ alias gps='git push'
 alias gpl='git pull'
 alias gffs='git flow feature start'
 alias gfff='git flow feature finish'
-
-
-alias gs='git status'
-alias gch='git checkout --'
-alias gfp='git ferch --prune'
-alias gps='git push'
-alias gpl='git pull'
-alias gffs='git flow feature start'
-alias gfff='git flow feature finish'
 alias gffp='git flow feature publish'
